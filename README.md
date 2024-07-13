@@ -63,10 +63,10 @@ pip install tensorflow torch scikit-learn pandas numpy matplotlib```
 
 ## Personal Advice
 
-Embarking on a machine learning journey can be challenging but incredibly rewarding. Here are some tips from my experience:
+A machine learning journey may be tough but really very rewarding. Here are a few tips from my own personal experience :
 
-- *Start Small*: Begin with simple projects and gradually tackle more complex problems.
-- *Stay Curious*: Always ask questions and seek to understand the 'why' behind each step.
-- *Practice Regularly*: Consistency is key. Try to code a little bit each day.
-- *Learn from Mistakes*: Don’t be afraid to make mistakes. Each error is a learning opportunity.
-- *Engage with the Community*: Join online forums, attend meetups, and collaborate with others.
+  - Start Small: Do all the simple projects and then slowly move to complex problems.
+  - Stay Curious: Always ask a question and seek to understand 'why' behind each step.
+  - Practice Regularly: Consistency is the key. Try to code a little daily.
+  - Learn from Mistakes: One does not need to be scared of making mistakes; every mistake in itself is a learning point.
+  - Join the Community: Habituate online forums, forum sites, attend meetups, or be part of projects with other aspirants in the field of data science.
